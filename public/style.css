@@ -1,0 +1,82 @@
+body{
+background-image: url('/Loginpage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#mylink{
+    font-size: 25px;
+    color: azure;
+}
+.log-head{
+    background-color: aliceblue;
+    color: black;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-shadow: 2px 2px red;
+    font-size: 45px;
+}
+.sp1{
+    color: aliceblue;
+    background-color: black;
+}
+.flog{
+    padding-top: 7%;
+}
+.Nu-index{
+    background-color: antiquewhite;
+}
+a{
+    font-size: 40px;
+}
+.Al-index{
+    background-color: antiquewhite;
+}
+.index-page{
+    background-image: url('/splashfest.jpg');
+    background-size: cover;
+}
+.reg-page{
+    background-image: url('/splashfest.jpg');
+    background-size: cover;
+}
+#mylink{
+    font-size: 25px;
+    background-color: black;
+}
+.dash-page{
+    background-image: url('/whiteback.jpg');
+    background-size: cover;
+}
+tr{
+    background-color: whitesmoke;
+}
+
+.tri{
+    margin-left: auto;
+    font-style: normal;
+}
+.about-fest{
+    font-size: 40px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.about-body{
+    background-image: url('/whiteback.jpg');
+    background-size: cover;
+}
+.eve1{
+    font-size: 40px;
+    background-color: aliceblue;
+}
+.eve2{
+    font-size: 40px;
+    background-color: aliceblue;
+}
+.eve-head{
+    font-size: 60px;
+    background-color: aliceblue;
+}
+.eveve{
+    background-image: url('/splashfest.jpg');
+    background-size: cover;
+}

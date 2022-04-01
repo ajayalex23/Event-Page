@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	<title> My Form </title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body class="log-head" align='center'>
+        <header>
+		<h1>Login</h1>
+	</header>
+    
+	<div class="flog" style="text-align: center;">
+	<form action="/login" method="POST">
+		<fieldset>
+				
+			<label>User name</label>
+			<input type ="text" id = 'username' name="username" placeholder="username" required>
+			<br><br>
+
+			<label>Password</label>
+			<input type="password" id = "password" name="password" required>
+			<br><br>
+
+			<button type ="reset">Reset</button>
+			<button type ="submit">Submit</button>
+		</fieldset>
+        </form>
+        <br>
+		<span class="sp1"> New User?</span> <a id="mylink" href="./registration.html">register</a>
+	</div>
+</body>
+</html>
